@@ -72,6 +72,7 @@ era games, and Zelda in particular.
 | Blacksmiths require the "easy major currency", plus an additional third currency whose only purpose is for blacksmithing | Souls and Titanite | Geo and Pale Ore | No known NES game that implements this mechanic. Zelda does not implement this mechanic. |
 | Teleportation Mechanic introduced Mid-game | Lordvessel | Dreamgate | Not terribly uncommon in NES Era games, the Airship from Final Fantasy might be comparable. Zelda has the Flute which serves a similar purpose. |
 | A literal barrier that prevents further progress until a specific requirement is triggered | Golden Fog Gate, blocked until you have found the Lordvessel | Shade Gate, blocked until you have found the Shade Cloack | TODO |
+| Healing "takes time" and is interruptible by enemy attacks | Drinking from estus flask is an animation that can be interrupted by enemy attacks | Using focus to heal taks time that can be interrupted by enemy attakcs | No known NES game implements any mechanic like this, including Zelda. Healing, when present, is usually instantaneous (or time is paused while a healing animation plays) | 
 
 
 ## Similarities in World Design, Character Design, Lore, Scenes and Set Pieces
